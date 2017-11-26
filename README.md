@@ -8,4 +8,4 @@
 - Code hosted on `Github`
 - Live website [here](https://reetaa.github.io/bmi)
 
-*** Thanks for visiting :) ***
+Thanks for visiting.
